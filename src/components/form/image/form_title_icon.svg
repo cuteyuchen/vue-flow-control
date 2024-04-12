@@ -1,0 +1,17 @@
+<svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 832">
+<rect id="Rectangle 1855" x="7" y="2.5" width="8" height="8" rx="1" fill="#E4F1FF"/>
+<rect id="Rectangle 1854" opacity="0.2" x="2" y="6.5" width="8" height="8" rx="1" fill="url(#paint0_linear_4197_2)"/>
+<rect id="Rectangle 1853" opacity="0.6" y="0.5" width="8" height="8" rx="1" fill="url(#paint1_linear_4197_2)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_4197_2" x1="3.75" y1="15.7" x2="11.6632" y2="13.65" gradientUnits="userSpaceOnUse">
+<stop stop-color="#03D2FF"/>
+<stop offset="1" stop-color="#037AFF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_4197_2" x1="1.75" y1="9.7" x2="9.66319" y2="7.64996" gradientUnits="userSpaceOnUse">
+<stop stop-color="#03D2FF"/>
+<stop offset="1" stop-color="#037AFF"/>
+</linearGradient>
+</defs>
+</svg>
